@@ -42,6 +42,6 @@ I also practiced a lot of Power Query magic to ensure the dates and regions were
 👋 Let's Connect!
 If you're a fellow data enthusiast or just curious about how I built this:
 
-LinkedIn: [Your Profile Link Here]
+LinkedIn: www.linkedin.com/in/md-saqlain-data
 
 Thoughts? Drop a star ⭐ on this repo if you find it helpful!
